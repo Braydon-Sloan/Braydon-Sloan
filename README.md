@@ -4,8 +4,8 @@
 
 - <b>Minimum age pay and taxes</b>
   - [Minimum age pay and taxes in C++](https://github.com/Braydon-Sloan/StudentPayTax)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Pennies to dollars and change</b>
+  - [Pennies to Dollars and change in C++](https://github.com/Braydon-Sloan/PenniesToDollars/tree/main)
 
 
 <!--

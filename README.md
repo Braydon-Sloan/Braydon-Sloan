@@ -5,8 +5,7 @@
 - <b>Minimum age pay and taxes</b>
   - [Minimum age pay and taxes in C++](https://github.com/Braydon-Sloan/StudentPayTax)
 - <b>Pennies to dollars and change</b>
-  - [Pennies to Dollars and change in C++](https://github.com/Braydon-Sloan/PenniesToDollars/tree/main)
-
+  - [Pennies to Dollars and change in C++](https://github.com/Braydon-Sloan/PenniesToDollars)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
